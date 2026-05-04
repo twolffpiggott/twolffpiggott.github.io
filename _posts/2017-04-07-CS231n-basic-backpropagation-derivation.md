@@ -2,7 +2,7 @@
 layout: post
 title: CS231n basic backpropagation derivation
 ---
-This post covers the backpropagation derivation for an affine layer in a basic fully-connected neural network, as part of work on the second assignment for the Winter 2016 iteration of the Stanford class [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html).
+This post covers the backpropagation derivation for an affine layer in a basic fully-connected neural network, as part of work on the second assignment for the Winter 2016 iteration of the Stanford class [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/index.html).
 
 Consider the loss function for the net evaluated at the $i$th observation
 
@@ -107,4 +107,4 @@ db &= \begin{bmatrix}
 \end{align}
 $$
 
-A great walkthrough of the implementation is python is available [here](http://cs231n.github.io/neural-networks-case-study/).
+A great walkthrough of the implementation is python is available [here](https://cs231n.github.io/neural-networks-case-study/).
