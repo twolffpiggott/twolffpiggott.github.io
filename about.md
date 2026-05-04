@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Tim.
 
-This is my old machine learning blog from an earlier chapter: the period when I was studying and learning in public.
+This is my old machine learning blog from an earlier chapter, when I was studying and learning in public.
 
 I've kept it online mostly for nostalgia. The posts are dated now.
 
