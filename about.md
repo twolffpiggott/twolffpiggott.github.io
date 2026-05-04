@@ -15,11 +15,3 @@ These days I'm a machine learning engineer working on ML infrastructure and cust
 I'm especially interested in the systems around model improvement: data capture, training loops, evals, deployment, telemetry, and operator feedback.
 
 Recent work includes robotics platform and training infrastructure at Reimagine Robotics; production ML systems at Lifecheq; Kubernetes ML platform work for Deutsche Telekom; and manufacturing ML deployments for Norican, Condals, and Sibanye-Stillwater.
-
-You can find me here:
-
-- GitHub: [twolffpiggott](https://github.com/twolffpiggott)
-
-- LinkedIn: [Tim Wolff-Piggott](https://www.linkedin.com/in/twolffpiggott/)
-
-- Email: [twolffpiggott@gmail.com](mailto:twolffpiggott@gmail.com)
